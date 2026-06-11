@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev:main": "pnpm --filter main dev",
+    "dev:viewer": "pnpm --filter viewer dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
